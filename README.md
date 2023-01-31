@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/thinguru/80dfb10f-265c-4170-a26a-f8737a62ba51/84a96980-bd66-41f2-9654-1ba8944a433d/_apis/work/boardbadge/a6ce553e-eaab-4f75-a65d-af99880826fc)](https://dev.azure.com/thinguru/80dfb10f-265c-4170-a26a-f8737a62ba51/_boards/board/t/84a96980-bd66-41f2-9654-1ba8944a433d/Microsoft.RequirementCategory)
 # Azure
